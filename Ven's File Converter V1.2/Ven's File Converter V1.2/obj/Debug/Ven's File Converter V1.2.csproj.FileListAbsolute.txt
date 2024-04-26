@@ -1,0 +1,10 @@
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\bin\Debug\Ven's File Converter V1.2.exe.config
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\bin\Debug\Ven's File Converter V1.2.exe
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\bin\Debug\Ven's File Converter V1.2.pdb
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven_s_File_Converter_V1._2.Form1.resources
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven_s_File_Converter_V1._2.Properties.Resources.resources
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven's File Converter V1.2.csproj.GenerateResource.cache
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven's File Converter V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven's File Converter V1.2.exe
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven's File Converter V1.2.pdb
+C:\Users\Sprk1\source\repos\Ven's File Converter V1.2\Ven's File Converter V1.2\obj\Debug\Ven's File Converter V1.2.csproj.AssemblyReference.cache
